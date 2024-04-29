@@ -63,7 +63,7 @@ Your first task is to set up directories to prepare for your investigation.
 
 Your next task is to move evidence from the specific days on which Lucky Duck experienced heavy losses at the roulette tables.
 
-1. Try to Navigate to your `HOME` directory where you created the `Lucky_Duck_Investigations` directory and run the following command to set up the evidence files:
+1. Navigate to your `HOME` directory where you created the `Lucky_Duck_Investigations` directory and run the following command to set up the evidence files:
 
    - `wget "https://drive.google.com/uc?id=1ZLY_fuFu3wz7tOlxf-GUrnvp3htuGKSa" -O 3-HW-setup-evidence && chmod +x ./3-HW-setup-evidence && ./3-HW-setup-evidence`
 
