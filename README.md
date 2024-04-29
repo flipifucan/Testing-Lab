@@ -1,3 +1,0 @@
-# Testing-Lab
-
-Hello World
